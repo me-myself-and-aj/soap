@@ -1,3 +1,5 @@
 # Hakuna Matata
 
-GitHub benefits:
+## Why GitHub?
+
+### What are the benefits:
