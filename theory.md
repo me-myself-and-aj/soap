@@ -5,9 +5,9 @@ Purpose of this workshop is to:
 * Learn basics about Git and GitHub
 * Know what are the benefits of using Github
 * What to use GitHub for
-* Get more experience and find a geeky job https://github.com/trending?since=monthly
+* Get more experience and find a geeky job (https://github.com/trending?since=monthly)
 
-So first, get your own GitHub account https://github.com/join?source=header-home
+So first, get your own GitHub account [https://github.com/join?source=header-home]
 
 ## Sample Data (LG)
 
